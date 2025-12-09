@@ -7,7 +7,8 @@ I wont give them a paper yet, this is a lot of information already so I want the
 - **Remote Development**
   - You dont have to but you can develop on my linux server, ill keep it up as much as I can. 
     - It has a gpu so you can run AI models on it. Can also run other software on it. 
-  - ssh using the vscode extension to access  
+  - ssh using the vscode extension to access
+  - https://www.youtube.com/watch?v=IasCAoj70I4 (watch this video to help)
     *(SSH credentials, usernames, and passwords are included in the email.)*
 - **Notes:**
   - You guys do not have sudo perms, email me if you need them and for what purpose.
